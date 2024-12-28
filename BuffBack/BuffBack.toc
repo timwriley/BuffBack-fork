@@ -1,0 +1,17 @@
+## Interface: 11505
+## Title: BuffBack
+## Notes: Makes it easier to return buffs to players who buff you.
+## Author: K1DW1K
+## Version: 2.3.2
+## SavedVariables: BuffBackGlobalDB
+
+embeds.xml
+Constants.lua
+
+Core.lua
+
+Config.lua
+Utils.lua
+Commands.lua
+Events.lua
+UI.lua
